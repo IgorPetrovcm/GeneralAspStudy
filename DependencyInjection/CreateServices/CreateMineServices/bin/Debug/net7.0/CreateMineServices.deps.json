@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CreateMineServices/1.0.0": {
+        "runtime": {
+          "CreateMineServices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CreateMineServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
