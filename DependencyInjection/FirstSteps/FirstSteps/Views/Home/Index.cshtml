@@ -1,0 +1,18 @@
+@using System.Collections.Specialized
+@using System.Text;
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <title>Dependency Injection Services</title>
+</head>
+<body>
+@{
+    StringCollection str = ViewBag.Message;
+    foreach (string line in str)
+    {
+        <p>line</p>
+    }
+}
+</body>
+</html>
