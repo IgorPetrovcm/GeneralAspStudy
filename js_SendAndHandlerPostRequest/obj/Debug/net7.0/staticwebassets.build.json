@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "nZtUiDkKoGo0ahcHYfw7aLP/6G/e6tPRtMNDUYJ/6pY=",
+  "Source": "js_SendAndHandlerPostRequest",
+  "BasePath": "_content/js_SendAndHandlerPostRequest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "js_SendAndHandlerPostRequest/wwwroot",
+      "Source": "js_SendAndHandlerPostRequest",
+      "ContentRoot": "/home/admin/General/GeneralAspStudy/js_SendAndHandlerPostRequest/wwwroot/",
+      "BasePath": "_content/js_SendAndHandlerPostRequest",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/admin/General/GeneralAspStudy/js_SendAndHandlerPostRequest/wwwroot/js/postRequest.js",
+      "SourceId": "js_SendAndHandlerPostRequest",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/admin/General/GeneralAspStudy/js_SendAndHandlerPostRequest/wwwroot/",
+      "BasePath": "_content/js_SendAndHandlerPostRequest",
+      "RelativePath": "js/postRequest.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/postRequest.js"
+    }
+  ]
+}
