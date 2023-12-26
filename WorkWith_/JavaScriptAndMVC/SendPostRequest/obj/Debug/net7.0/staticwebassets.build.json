@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "/nEVitxrSXcf1dXlM+bilEk8xT5483nXsbOZ5ZSEim0=",
+  "Source": "SendPostRequest",
+  "BasePath": "_content/SendPostRequest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SendPostRequest/wwwroot",
+      "Source": "SendPostRequest",
+      "ContentRoot": "/home/admin/General/GeneralAspStudy/WorkWith_/JavaScriptAndMVC/SendPostRequest/wwwroot/",
+      "BasePath": "_content/SendPostRequest",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/admin/General/GeneralAspStudy/WorkWith_/JavaScriptAndMVC/SendPostRequest/wwwroot/js/sendRequest.js",
+      "SourceId": "SendPostRequest",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/admin/General/GeneralAspStudy/WorkWith_/JavaScriptAndMVC/SendPostRequest/wwwroot/",
+      "BasePath": "_content/SendPostRequest",
+      "RelativePath": "js/sendRequest.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/sendRequest.js"
+    }
+  ]
+}

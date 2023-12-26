@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/home/admin/General/GeneralAspStudy/WorkWith_/JavaScriptAndMVC/SendPostRequest/wwwroot/js/sendRequest.js",
+      "PackagePath": "staticwebassets/js/sendRequest.js"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.SendPostRequest.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.SendPostRequest.props",
+      "PackagePath": "build\\SendPostRequest.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.SendPostRequest.props",
+      "PackagePath": "buildMultiTargeting\\SendPostRequest.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.SendPostRequest.props",
+      "PackagePath": "buildTransitive\\SendPostRequest.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
