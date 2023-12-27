@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "/BRvg7TLkT7zNKCr9/EPX7T2eSzfTDxuxn0XRuEbt/rIVO9bNzhRZtN6ZPVw391s2ibZN7Hcbnm0AGHiZnn5Tw==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\Honor\\Desktop\\study_C#\\ASP.Net\\GeneralAspStudy\\WorkWith_\\IFormFile\\Task1\\Task1.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "/BRvg7TLkT7zNKCr9/EPX7T2eSzfTDxuxn0XRuEbt/rIVO9bNzhRZtN6ZPVw391s2ibZN7Hcbnm0AGHiZnn5Tw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Honor\\Desktop\\study_C#\\ASP.Net\\GeneralAspStudy\\WorkWith_\\IFormFile\\Task1\\Task1.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 5b93b8cab22f9580fa5490079ae1155c65b412d8
 }
