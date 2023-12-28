@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/OneAction_MoreRequests.props" />
+</Project>

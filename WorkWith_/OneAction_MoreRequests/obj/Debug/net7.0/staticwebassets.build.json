@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "+1jc/dyAffHUA+AD21amg+Ve31fRc3B4uQLtq/C6zCk=",
+  "Source": "OneAction_MoreRequests",
+  "BasePath": "_content/OneAction_MoreRequests",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OneAction_MoreRequests/wwwroot",
+      "Source": "OneAction_MoreRequests",
+      "ContentRoot": "/home/admin/General/GeneralAspStudy/WorkWith_/OneAction_MoreRequests/wwwroot/",
+      "BasePath": "_content/OneAction_MoreRequests",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/admin/General/GeneralAspStudy/WorkWith_/OneAction_MoreRequests/wwwroot/js/first_script.js",
+      "SourceId": "OneAction_MoreRequests",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/admin/General/GeneralAspStudy/WorkWith_/OneAction_MoreRequests/wwwroot/",
+      "BasePath": "_content/OneAction_MoreRequests",
+      "RelativePath": "js/first_script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/first_script.js"
+    }
+  ]
+}
