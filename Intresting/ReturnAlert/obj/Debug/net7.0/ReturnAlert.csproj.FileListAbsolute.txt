@@ -23,3 +23,5 @@ C:\Users\Honor\Desktop\study_C#\ASP.Net\GeneralAspStudy\Intresting\ReturnAlert\o
 C:\Users\Honor\Desktop\study_C#\ASP.Net\GeneralAspStudy\Intresting\ReturnAlert\obj\Debug\net7.0\ReturnAlert.pdb
 C:\Users\Honor\Desktop\study_C#\ASP.Net\GeneralAspStudy\Intresting\ReturnAlert\obj\Debug\net7.0\ReturnAlert.genruntimeconfig.cache
 C:\Users\Honor\Desktop\study_C#\ASP.Net\GeneralAspStudy\Intresting\ReturnAlert\obj\Debug\net7.0\ref\ReturnAlert.dll
+C:\Users\Honor\Desktop\study_C#\ASP.Net\GeneralAspStudy\Intresting\ReturnAlert\obj\Debug\net7.0\ReturnAlert.RazorAssemblyInfo.cache
+C:\Users\Honor\Desktop\study_C#\ASP.Net\GeneralAspStudy\Intresting\ReturnAlert\obj\Debug\net7.0\ReturnAlert.RazorAssemblyInfo.cs
