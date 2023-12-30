@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title>Alternative Index</title>
+    </head>
+    <body>
+        <form method="post">
+            <input name="values"/>
+            <input name="values"/>
+            <input name="values"/>
+            <input name="values"/>
+            <input type="submit"/>
+        </form>
+
+        @{
+            if (ViewBag.Message == 0)
+            {
+                <script>alert('okay')</script>
+            }
+            else if (ViewBag.Message == 1)
+            {
+                <script>alert('bad')</script>
+            }
+        }
+    </body>
+</html>
