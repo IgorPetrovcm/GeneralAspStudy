@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/SendFile_context.props" />
+</Project>
